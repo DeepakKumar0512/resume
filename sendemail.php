@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
    
 
     session_cache_limiter( 'nocache' );
@@ -65,4 +65,4 @@
 
     echo json_encode( $result );
 
-    die;
+    die; -->
